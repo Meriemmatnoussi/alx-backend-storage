@@ -1,5 +1,2 @@
-#!/bin/bash
-
-mongo <<EOF
+// list all databases in a project
 show dbs
-EOF
